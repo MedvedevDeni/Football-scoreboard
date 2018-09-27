@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Футбольное табло</string>
+    <string name="add_score">Добавить очко</string>
+    <string name="reset_score">Обнулить счет</string>
+</resources>

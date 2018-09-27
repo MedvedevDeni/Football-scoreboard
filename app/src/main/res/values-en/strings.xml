@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Football scoreboard</string>
+    <string name="add_score">Add score</string>
+    <string name="reset_score">Reset score</string>
+</resources>

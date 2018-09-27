@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fußball-Anzeigetafel</string>
+    <string name="add_score">Punkt hinzufügen</string>
+    <string name="reset_score">Setzen Sie das Konto zurück</string>
+</resources>

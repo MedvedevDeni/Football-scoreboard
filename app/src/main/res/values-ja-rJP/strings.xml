@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">サッカーのスコアボード</string>
+    <string name="add_score">ポイントを追加</string>
+    <string name="reset_score">アカウントをリセットする</string>
+</resources>
